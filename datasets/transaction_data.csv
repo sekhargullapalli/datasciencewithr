@@ -1,0 +1,7 @@
+custID,gender,state,cardholder,balance,numTrans,numIntlTrans,creditLine,fraudRisk
+1,1,35,1,3000,4,14,2,0
+2,2,2,1,0,9,0,18,0
+3,2,2,1,0,27,9,16,0
+4,1,15,1,0,12,0,5,0
+5,1,46,1,0,11,16,7,1
+6,2,44,2,5546,21,0,13,0

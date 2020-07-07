@@ -1,0 +1,43 @@
+---
+title: "Average Temperature Distribution in Stockholm, Sweden"
+author: "Vijaya Sekhar Gullapalli"
+date: "6/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source("./dataloader.R")
+source("./dataanalysis.R")
+library(moments)
+library(ggplot2)
+```
+
+The average temperature distribution of **Stockholm**, Sweden is shown below. The data for this analysis is obtained from [Kaggle dataset](https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities) for daily temperatures of major cities.
+
+### **Spread of Average Temperature**
+
+```{r DayofYear, echo=FALSE, warning=FALSE, fig.align='center', fig.cap="Temperature Spread as a function of the day of year"}
+ggplot(t_dayofyear, aes(DayofYear, temperature)) + 
+  geom_point(aes(y=min, color=min), fill="red", color="darkred", size=2) + 
+  geom_point(aes(y=max, color=max), fill="blue", color="blue", size=2) +
+  geom_point(aes(y=avg, color=avg), fill="orange", color="orange", size=2) +
+  geom_smooth(aes(y=avg, color=avg),method=loess,  linetype="dashed",color="black", fill="grey")
+```
+
+### Average Temperature Histogram
+
+```{r histogram, echo=FALSE, warning=FALSE, fig.align='center', fig.cap="Temperature dist., density and normal dist"}
+paste("Mean: ", mean(stockholmdata$AvgTemperatureC))
+paste("Skewness: ", skewness(stockholmdata$AvgTemperatureC))
+paste("Kurtosis: ", kurtosis(stockholmdata$AvgTemperatureC))
+print("Quantiles")
+quantile(stockholmdata$AvgTemperatureC, probs = seq(0, 1, 0.1), na.rm = TRUE, names = TRUE, type = 7)
+ggplot(stockholmdata, aes(x=AvgTemperatureC)) + 
+  geom_histogram(aes(y=..density..), colour="black", fill="white", binwidth = 1)+
+  geom_density(alpha=.2, fill="#FF6666") +
+  geom_vline(aes(xintercept=mean(AvgTemperatureC)), color="blue", linetype="dashed", size=1) +
+  stat_function(fun=dnorm,color="red",args=list(mean=mean(stockholmdata$AvgTemperatureC), sd=sd(stockholmdata$AvgTemperatureC)))
+```
+
+

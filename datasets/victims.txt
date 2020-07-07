@@ -1,0 +1,30 @@
+%% Data on the titanic victims
+Anthony,1870,1912
+Ernest,1892,NA
+Eugene,1871,1912
+Rossmore,1856,1912
+Samuel,1902,NA
+William,1876,1912
+John,1904,1912
+Robert,1863,1912
+Percy,1910,1912
+Santa,1901,NA
+Bill,1886,1912
+Bob,1894,1912
+Frank,1853,1912
+Evelene,1910,1912
+Nathan,1870,1912
+Gerard,1885,NA
+Adrian,1871,1912
+Joshua,1856,1912
+Malcolm,1897,NA
+Elvin,1876,1912
+Simon,1904,1912
+Owen,1863,1912
+Ben,1910,1912
+Mathew,1899,NA
+George,1886,1912
+Marshall,1894,1912
+Kevin,1853,1912
+Barbara,1910,1912
+% Names, birth and death dates

@@ -1,0 +1,322 @@
+"location","latitude","longitude"
+"Albania+Tirana",41.33315,19.81808
+"Algeria+Algiers",36.70005,3.02913
+"Argentina+Buenos Aires",-34.60988,-58.45221
+"Australia+Brisbane",-27.4695,153.0256
+"Australia+Canberra",-35.26882,149.01388
+"Australia+Melbourne",-37.81585,144.96313
+"Australia+Perth",45.19837,-75.83257
+"Australia+Sydney",-33.86854,151.20776
+"Austria+Vienna",48.22021,16.37122
+"Bahamas+Nassau",25.04911,-77.35141
+"Bahrain+Manama",26.2146,50.57892
+"Bangladesh+Dhaka",23.73862,90.39721
+"Barbados+Bridgetown",13.09269,-59.59736
+"Belarus+Minsk",53.90015,27.56906
+"Belgium+Brussels",50.85055,4.36697
+"Belize+Belize City",17.49251,-88.1873
+"Benin+Cotonou",6.25258,2.42953
+"Bermuda+Hamilton",32.29276,-64.7824
+"Bolivia+La Paz",-14.94575,-68.39127
+"Brazil+Brasilia",-15.82066,-47.96359
+"Brazil+Rio de Janeiro",-22.89287,-43.39348
+"Brazil+Sao Paulo",-10.5442,-37.54154
+"Bulgaria+Sofia",42.77026,23.35924
+"Burundi+Bujumbura",-3.37261,29.36915
+"Canada+Calgary",51.16557,-114.20872
+"Canada+Edmonton",53.59923,-113.55021
+"Canada+Halifax",45.02524,-63.10856
+"Canada+Montreal",45.49756,-73.56737
+"Canada+Ottawa",45.36437,-75.62954
+"Canada+Quebec",52.93992,-73.54914
+"Canada+Regina",50.41329,-104.63813
+"Canada+Toronto",43.63463,-79.41
+"Canada+Vancouver",49.25555,-123.02381
+"Canada+Winnipeg",49.88336,-97.14545
+"Central African Republic+Bangui",4.37512,18.56383
+"China+Beijing",39.90325,116.38818
+"China+Chengdu",30.66406,104.0685
+"China+Guangzhou",23.13693,113.28858
+"China+Shanghai",31.23286,121.46043
+"China+Shenyang",41.81334,123.44162
+"Colombia+Bogota",4.66173,-74.06782
+"Congo+Brazzaville",-4.26303,15.2627
+"Costa Rica+San Jose",9.89636,-84.06498
+"Croatia+Zagreb",45.81812,15.97566
+"Cuba+Havana",23.14389,-82.35492
+"Cyprus+Nicosia",35.08205,33.07318
+"Czech Republic+Prague",50.05963,14.44646
+"Denmark+Copenhagen",55.69306,12.54608
+"Dominican Republic+Santo Domingo",18.4912,-69.90483
+"Egypt+Cairo",30.03497,31.56346
+"Equador+Guayaquil",-2.1269,-79.88268
+"Equador+Quito",-0.33536,-78.58027
+"Ethiopia+Addis Ababa",9.00772,38.75646
+"Finland+Helsinki",60.21671,24.9693
+"France+Bordeaux",44.84235,-0.58091
+"France+Paris",48.85755,2.34276
+"Gabon+Libreville",0.40834,9.45007
+"Gambia+Banjul",13.45527,-16.58439
+"Georgia+Tbilisi",41.73188,44.83688
+"Germany+Bonn",50.71588,7.11137
+"Germany+Frankfurt",50.12581,8.65399
+"Germany+Hamburg",53.56725,9.94172
+"Germany+Munich",48.14323,11.55785
+"Greece+Athens",39.51486,21.0455
+"Guatemala+Guatemala City",14.62744,-90.51196
+"Guinea+Conakry",9.62223,-13.55908
+"Guinea-Bissau+Bissau",11.86638,-15.5991
+"Guyana+Georgetown",6.80258,-58.16286
+"Haiti+Port au Prince",18.54733,-72.33959
+"Honduras+Tegucigalpa",14.08468,-87.2019
+"Hong Kong+Hong Kong",22.28515,114.15845
+"Hungary+Budapest",47.49622,19.04591
+"Iceland+Reykjavik",64.11497,-21.87972
+"India+Bombay (Mumbai)",19.13492,72.91331
+"India+Calcutta",20.71595,70.95161
+"India+Chennai (Madras)",13.0332,80.10931
+"India+Delhi",28.65553,77.23165
+"Indonesia+Jakarta",-6.18259,106.82298
+"Ireland+Dublin",53.36125,-6.30798
+"Israel+Tel Aviv",32.07187,34.80864
+"Italy+Milan",32.17416,-96.87253
+"Italy+Rome",41.88367,12.48123
+"Ivory Coast+Abidjan",5.3159,-4.02064
+"Japan+Osaka",34.69801,135.50604
+"Japan+Sapporo",43.06877,141.35096
+"Japan+Tokyo",35.68046,139.68895
+"Jordan+Amman",31.6732,36.31298
+"Kazakhstan+Almaty",43.21984,76.91835
+"Kenya+Nairobi",-1.28487,36.82565
+"Kuwait+Kuwait",29.2944,48.02601
+"Kyrgyzstan+Bishkek",42.87674,74.60699
+"Laos+Vientiane",18.61386,102.22222
+"Latvia+Riga",56.95658,24.12355
+"Lebanon+Beirut",33.8899,35.50275
+"Macedonia+Skopje",42,21.4333
+"Madagascar+Antananarivo",-18.90524,47.52669
+"Malawi+Lilongwe",-13.97061,33.78051
+"Malaysia+Kuala Lumpur",3.14456,101.6896
+"Mauritania+Nouakchott",18.13576,-15.90603
+"Mexico+Guadalajara",20.67915,-103.37874
+"Mexico+Mexico City",19.42288,-99.1324
+"Mexico+Monterrey",25.699,-100.52
+"Mongolia+Ulan-bator",47.93429,106.95263
+"Morocco+Rabat",34.00195,-6.84504
+"Mozambique+Maputo",-25.55054,32.46449
+"Myanmar (Burma)+Rangoon",16.69004,98.51504
+"Namibia+Windhoek",-22.55304,17.05438
+"Nepal+Katmandu",27.70628,85.32663
+"New Zealand+Auckland",-36.54128,174.55061
+"Nicaragua+Managua",12.12609,-86.33383
+"Nigeria+Lagos",6.53071,3.70884
+"Nigeria+Niamey",4.53944,7.24715
+"North Korea+Pyongyang",39.07985,125.80146
+"Norway+Oslo",59.9169,10.77083
+"Oman+Muscat",23.51255,58.50575
+"Pakistan+Islamabad",34.57336,73.36002
+"Pakistan+Karachi",24.86173,67.08697
+"Panama+Panama City",9.02436,-79.48583
+"Peru+Lima",-11.79883,-76.65276
+"Philippines+Manila",14.59612,120.98963
+"Poland+Warsaw",52.2189,21.234
+"Portugal+Lisbon",38.99545,-9.14364
+"Qatar+Doha",25.3015,51.49967
+"Romania+Bucharest",44.43817,26.09501
+"Russia+Moscow",55.75692,37.60953
+"Russia+Yerevan",40.15447,44.50791
+"Saudi Arabia+Dhahran",26.29723,50.11638
+"Saudi Arabia+Riyadh",21.41198,39.89296
+"Senegal+Dakar",14.70811,-17.45081
+"Serbia-Montenegro+Pristina",42.44607,18.64184
+"Sierra Leone+Freetown",8.45995,-13.2423
+"Singapore+Singapore",1.33594,103.83717
+"Slovakia+Bratislava",48.16389,17.11853
+"South Africa+Capetown",-30.15001,24.7784
+"South Korea+Seoul",37.56491,126.93956
+"Spain+Barcelona",41.4036,2.15377
+"Spain+Bilbao",43.2627,-2.9253
+"Spain+Madrid",40.42954,-3.67931
+"Sri Lanka+Colombo",6.92133,79.86322
+"Suriname+Paramaribo",6.04955,-55.21213
+"Sweden+Stockholm",59.33096,18.04879
+"Switzerland+Bern",46.9481,7.4474
+"Switzerland+Geneva",46.20472,6.14231
+"Switzerland+Zurich",47.3667,8.55
+"Syria+Damascus",33.5131,36.29986
+"Taiwan+Taipei",25.04837,121.50928
+"Tajikistan+Dusanbe",38.6582,70.18674
+"Tanzania+Dar Es Salaam",-6.80485,39.24343
+"Thailand+Bangkok",13.74131,100.50814
+"The Netherlands+Amsterdam",52.36054,4.89668
+"Togo+Lome",45.91687,14.08531
+"Tunisia+Tunis",36.81805,10.21274
+"Turkey+Ankara",39.93637,32.84687
+"Turkey+Istanbul",41.02957,28.99184
+"Turkmenistan+Ashabad",39.06647,59.6027
+"Uganda+Kampala",0.32399,32.58662
+"Ukraine+Kiev",50.44839,30.52582
+"United Arab Emirates+Abu Dhabi",23.99764,53.64391
+"United Arab Emirates+Dubai",25.07501,55.18876
+"United Kingdom+Belfast",54.58464,-5.93429
+"United Kingdom+London",51.51763,-0.11348
+"Uruguay+Montvideo",-32.50733,-53.50241
+"US+Abilene",32.43311,-99.74825
+"US+Akron Canton",40.8634,-81.5395
+"US+Albany",31.56241,-84.15894
+"US+Albuquerque",35.11459,-106.6207
+"US+Allentown",40.59696,-75.49114
+"US+Amarillo",35.18422,-101.86238
+"US+Anchorage",61.18604,-149.80382
+"US+Asheville",35.62001,-82.56558
+"US+Atlanta",33.77729,-84.39015
+"US+Atlantic City",39.36276,-74.43936
+"US+Austin",30.30087,-97.78262
+"US+Baltimore",39.3221,-76.61444
+"US+Baton Rouge",30.44482,-91.07649
+"US+Billings",45.78996,-108.53766
+"US+Birmingham",33.47626,-86.76679
+"US+Bismarck",46.8223,-100.76329
+"US+Boise",43.60847,-116.25097
+"US+Boston",42.33106,-71.0902
+"US+Bridgeport",41.18944,-73.21601
+"US+Brownsville",25.937,-97.47524
+"US+Buffalo",42.91023,-78.8375
+"US+Burlington",36.12708,-79.43127
+"US+Caribou",46.86925,-68.00983
+"US+Casper",42.84425,-106.33708
+"US+Charleston",32.79813,-79.98343
+"US+Charlotte",35.19317,-80.80483
+"US+Chattanooga",35.05639,-85.24637
+"US+Cheyenne",41.15062,-104.79762
+"US+Chicago",41.85013,-87.68808
+"US+Cincinnati",39.16835,-84.48804
+"US+Cleveland",40.4437,-95.06044
+"US+Colorado Springs",38.87574,-104.76897
+"US+Columbia",38.95075,-92.32894
+"US+Columbus",48.36262,-114.18697
+"US+Concord",37.95364,-122.00934
+"US+Corpus Christi",27.73462,-97.4073
+"US+Dallas Ft Worth",35.32174,-81.17802
+"US+Dayton",39.74292,-84.18875
+"US+Daytona Beach",29.20502,-81.04515
+"US+Denver",39.73034,-104.98958
+"US+Des Moines",41.595,-93.61988
+"US+Detroit",42.38891,-83.10508
+"US+Duluth",46.80086,-92.12027
+"US+El Paso",31.85152,-106.626
+"US+Elkins",35.9724,-93.95585
+"US+Erie",42.09995,-80.07811
+"US+Eugene",44.06126,-123.10616
+"US+Evansville",39.25455,-82.01741
+"US+Fairbanks",64.86199,-147.72915
+"US+Fargo",46.8505,-96.82363
+"US+Flagstaff",35.21502,-111.60999
+"US+Flint",43.02837,-83.70058
+"US+Fort Smith",35.32417,-94.38772
+"US+Fort Wayne",41.09285,-85.1428
+"US+Fresno",36.78825,-119.76972
+"US+Goodland",39.34974,-101.725
+"US+Grand Junction",39.07939,-108.54938
+"US+Grand Rapids",42.93006,-85.66189
+"US+Great Falls",34.56965,-80.91214
+"US+Green Bay",44.51703,-88.02568
+"US+Greensboro",36.07665,-79.82014
+"US+Harrisburg",40.28549,-76.8139
+"US+Hartford Springfield",39.95786,-83.79498
+"US+Helena",34.70804,-83.73443
+"US+Honolulu",21.31158,-157.83411
+"US+Houston",29.77448,-95.39835
+"US+Huntsville",34.72043,-86.5947
+"US+Indianapolis",39.80195,-86.11364
+"US+Jackson",42.8634,-73.75427
+"US+Jacksonville",30.30561,-81.64367
+"US+Juneau",58.35487,-134.53741
+"US+Kansas City",39.09407,-94.5864
+"US+Knoxville",35.96464,-83.97748
+"US+Lake Charles",30.21497,-93.20739
+"US+Lansing",42.72926,-84.6044
+"US+Las Vegas",36.18211,-115.17404
+"US+Lexington",33.96155,-81.23917
+"US+Lincoln",40.80185,-96.67062
+"US+Little Rock",34.71995,-92.36559
+"US+Los Angeles",34.04015,-118.29757
+"US+Louisville",38.19551,-85.70117
+"US+Lubbock",33.55289,-101.89684
+"US+Macon",32.74321,-83.6694
+"US+Madison",43.07026,-89.39598
+"US+Medford",42.33743,-122.86665
+"US+Memphis",35.11777,-89.93794
+"US+Miami Beach",25.82084,-80.12827
+"US+Midland Odessa",31.83369,-102.35763
+"US+Milwaukee",43.05251,-87.95963
+"US+Minneapolis St. Paul",45.07204,-93.34503
+"US+Mobile",30.67162,-88.1517
+"US+Montgomery",32.35083,-86.24848
+"US+Nashville",36.14014,-86.78389
+"US+New Orleans",29.94928,-90.13426
+"US+New York City",40.74823,-73.98583
+"US+Newark",53.08138,-0.79947
+"US+Norfolk",36.88942,-76.25394
+"US+North Platte",41.12959,-100.77759
+"US+Oklahoma City",35.50216,-97.5091
+"US+Omaha",41.24042,-96.05057
+"US+Orlando",28.5175,-81.35939
+"US+Paducah",37.0502,-88.63868
+"US+Peoria",40.72277,-89.62156
+"US+Philadelphia",-33.66663,18.58099
+"US+Phoenix",33.53271,-112.08976
+"US+Pittsburgh",37.41924,-94.71301
+"US+Pocatello",42.88634,-112.44718
+"US+Portland",41.65975,-87.68112
+"US+Pueblo",38.26535,-104.62597
+"US+Raleigh Durham",35.93513,-78.81337
+"US+Rapid City",44.06757,-103.24255
+"US+Reno",39.52082,-119.81792
+"US+Rhode Island",31.80655,-96.25333
+"US+Richmond",37.52163,-77.48086
+"US+Roanoke",37.2759,-79.96624
+"US+Rochester",43.16732,-77.61429
+"US+Rockford",43.11919,-85.51926
+"US+Sacramento",38.54381,-121.44354
+"US+Salem",37.28983,-80.07228
+"US+Salt Lake City",40.75186,-111.8827
+"US+San Angelo",31.45655,-100.45552
+"US+San Antonio",37.38985,-106.24189
+"US+San Diego",32.80822,-117.12898
+"US+San Francisco",9.9417,-84.0728
+"US+San Juan Puerto Rico",18.42473,-66.07465
+"US+Sault Ste Marie",46.56079,-84.33476
+"US+Savannah",32.03334,-81.11189
+"US+Seattle",47.62405,-122.33279
+"US+Shreveport",32.54637,-93.82211
+"US+Sioux City",42.50154,-96.39086
+"US+Sioux Falls",43.52894,-96.73692
+"US+South Bend",0,0
+"US+Spokane",0,0
+"US+Springfield",0,0
+"US+St Louis",0,0
+"US+Syracuse",0,0
+"US+Tallahassee",0,0
+"US+Tampa St. Petersburg",0,0
+"US+Toledo",0,0
+"US+Topeka",0,0
+"US+Tucson",0,0
+"US+Tulsa",0,0
+"US+Tupelo",0,0
+"US+Waco",0,0
+"US+Washington",0,0
+"US+Washington DC",0,0
+"US+West Palm Beach",0,0
+"US+Wichita",0,0
+"US+Wichita Falls",0,0
+"US+Wilkes Barre",0,0
+"US+Wilmington",0,0
+"US+Yakima",0,0
+"US+Youngstown",0,0
+"US+Yuma",0,0
+"Uzbekistan+Tashkent",0,0
+"Venezuela+Caracas",0,0
+"Vietnam+Hanoi",0,0
+"Yugoslavia+Belgrade",0,0
+"Zambia+Lusaka",0,0
